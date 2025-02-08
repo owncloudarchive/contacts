@@ -1,2 +1,1 @@
-# contacts
-Owncloud bugbounty POC
+# Owncloud bugbounty POC
